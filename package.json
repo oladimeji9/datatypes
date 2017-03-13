@@ -1,0 +1,20 @@
+{
+  "name": "datatype-test",
+  "version": "1.0.0",
+  "description": "datatype test demo",
+  "main": "app/datatypelib.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine test/datatypetest.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oladimeji9/datatypes.git"
+  },
+  
+  "author": "akande oladimeji",
+  "license": "ISC"
+}
